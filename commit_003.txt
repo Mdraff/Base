@@ -3,4 +3,4 @@ Commit #3
 Network: Base (Marketing Focus)
 
 Message:
-Activate user acquisition funnel across social channels
+Activate user acquisition funnel across social channels.
